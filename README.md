@@ -4,7 +4,7 @@ O objetivo desta aplicação é criar uma API (com banco em memória, fake JSON)
 ## Comandos para iniciar o projeto
   1. node src/index.js
 
-#E Acesse minhas anotações acerca desta aplicação 🤓
+## Acesse minhas anotações acerca desta aplicação 🤓
   
 <div>
   <a href="https://long-petroleum-879.notion.site/Antes-dos-frameworks-bdbc59a4824e4d68835617ab8a8e1113">Anotações</a>
